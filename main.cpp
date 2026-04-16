@@ -26,6 +26,7 @@ std::string getRandomWord()
         "block",
         "ascii",
         "errno",
+        "query",
         "ioctl",
         "scala",
         "rustc",
